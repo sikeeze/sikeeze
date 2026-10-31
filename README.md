@@ -24,9 +24,8 @@
 
 <br/>
 
-- 🔭 Sedang mengerjakan **nft-agent-battleground** (Rust)
-- 🌱 Sedang belajar **hal baru setiap hari**
-- 💬 Tanyakan padaku tentang **web, blockchain, dan AI agent**
+- 🔭 Currently working on **nft-agent-battleground** (Rust)
+- 🌱 Learning **something new every day**
 
 <img src="./assets/divider.svg" width="100%" alt="divider"/>
 
