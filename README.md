@@ -61,10 +61,10 @@
 
 <div align="center">
 
-<img src="./profile-summary-card-output/2077/0-profile-details.svg" width="49%" alt="Profile Details"/>
-<img src="./profile-summary-card-output/2077/3-stats.svg" width="49%" alt="Top Languages"/>
-<img src="./profile-summary-card-output/2077/1-repos-per-language.svg" width="49%" alt="Repos per Language"/>
-<img src="./profile-summary-card-output/2077/2-most-commit-language.svg" width="49%" alt="Most Commit Language"/>
+<img src="./assets/profile-card.svg" width="49%" alt="Profile Card"/>
+<img src="./assets/core-modules.svg" width="49%" alt="Core Modules"/>
+
+<img src="./assets/mission.svg" width="100%" alt="Current Mission"/>
 
 <img src="https://streak-stats.demolab.com?user=sikeeze&hide_border=true&background=0d0221&ring=ff2a6d&fire=fcee0a&currStreakNum=05d9e8&currStreakLabel=ff2a6d&sideNums=05d9e8&sideLabels=e0e0e0&dates=888888" alt="Streak Stats"/>
 
@@ -76,7 +76,7 @@
 
 <div align="center">
 
-<img src="./profile-summary-card-output/2077/4-productive-time.svg" width="80%" alt="Productive Time"/>
+<img src="./assets/heartbeat.svg" width="100%" alt="System Heartbeat"/>
 
 </div>
 
@@ -84,7 +84,7 @@
 
 <div align="center">
 
-<img alt="Snake animation" src="./assets/github-snake-dark.svg" />
+<img src="./assets/snake.svg" width="100%" alt="Contribution Snake"/>
 
 </div>
 
@@ -95,9 +95,9 @@
 <div align="center">
 
 <a href="https://github.com/sikeeze"><img src="https://img.shields.io/badge/GitHub-0d0221?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://instagram.com/aikhel_dika"><img src="https://img.shields.io/badge/Instagram-0d0221?style=for-the-badge&logo=instagram&logoColor=ff2a6d"/></a>
+<a href="https://instagram.com/sikeeze"><img src="https://img.shields.io/badge/Instagram-0d0221?style=for-the-badge&logo=instagram&logoColor=ff2a6d"/></a>
 <a href="https://linkedin.com/in/sikeeze"><img src="https://img.shields.io/badge/LinkedIn-0d0221?style=for-the-badge&logo=linkedin&logoColor=05d9e8"/></a>
-<a href="mailto:aikheldika16@gmail.com"><img src="https://img.shields.io/badge/Email-0d0221?style=for-the-badge&logo=gmail&logoColor=fcee0a"/></a>
+<a href="mailto:email@kamu.com"><img src="https://img.shields.io/badge/Email-0d0221?style=for-the-badge&logo=gmail&logoColor=fcee0a"/></a>
 
 <br/><br/>
 
@@ -105,4 +105,4 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05d9e8,50:ff2a6d,100:0d0221&height=140&section=footer" width="100%"/>
+<img src="./assets/footer.svg" width="100%" alt="footer"/>
