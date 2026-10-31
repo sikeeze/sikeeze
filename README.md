@@ -95,9 +95,9 @@
 <div align="center">
 
 <a href="https://github.com/sikeeze"><img src="https://img.shields.io/badge/GitHub-0d0221?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://instagram.com/sikeeze"><img src="https://img.shields.io/badge/Instagram-0d0221?style=for-the-badge&logo=instagram&logoColor=ff2a6d"/></a>
+<a href="https://instagram.com/aikhel_dika"><img src="https://img.shields.io/badge/Instagram-0d0221?style=for-the-badge&logo=instagram&logoColor=ff2a6d"/></a>
 <a href="https://linkedin.com/in/sikeeze"><img src="https://img.shields.io/badge/LinkedIn-0d0221?style=for-the-badge&logo=linkedin&logoColor=05d9e8"/></a>
-<a href="mailto:email@kamu.com"><img src="https://img.shields.io/badge/Email-0d0221?style=for-the-badge&logo=gmail&logoColor=fcee0a"/></a>
+<a href="mailto:aikheldika16@gmail.com"><img src="https://img.shields.io/badge/Email-0d0221?style=for-the-badge&logo=gmail&logoColor=fcee0a"/></a>
 
 <br/><br/>
 
