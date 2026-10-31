@@ -61,18 +61,12 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sikeeze&show_icons=true&hide_border=true&bg_color=0d0221&title_color=ff2a6d&icon_color=05d9e8&text_color=e0e0e0&ring_color=fcee0a&count_private=true" alt="GitHub Stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sikeeze&layout=compact&hide_border=true&bg_color=0d0221&title_color=ff2a6d&text_color=e0e0e0" alt="Top Languages"/>
+<img src="./profile-summary-card-output/2077/0-profile-details.svg" width="49%" alt="Profile Details"/>
+<img src="./profile-summary-card-output/2077/3-stats.svg" width="49%" alt="Top Languages"/>
+<img src="./profile-summary-card-output/2077/1-repos-per-language.svg" width="49%" alt="Repos per Language"/>
+<img src="./profile-summary-card-output/2077/2-most-commit-language.svg" width="49%" alt="Most Commit Language"/>
 
 <img src="https://streak-stats.demolab.com?user=sikeeze&hide_border=true&background=0d0221&ring=ff2a6d&fire=fcee0a&currStreakNum=05d9e8&currStreakLabel=ff2a6d&sideNums=05d9e8&sideLabels=e0e0e0&dates=888888" alt="Streak Stats"/>
-
-</div>
-
-## 🏆 `> unlock achievements`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sikeeze&theme=radical&no-frame=true&no-bg=true&margin-w=12&column=7" alt="Trophies"/>
 
 </div>
 
@@ -82,7 +76,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sikeeze&bg_color=0d0221&color=ff2a6d&line=05d9e8&point=ffffff&area=true&area_color=05d9e8&hide_border=true&title_color=fcee0a" alt="Activity Graph" width="100%"/>
+<img src="./profile-summary-card-output/2077/4-productive-time.svg" width="80%" alt="Productive Time"/>
 
 </div>
 
@@ -91,6 +85,8 @@
 <div align="center">
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sikeeze/sikeeze/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sikeeze/sikeeze/output/github-snake.svg" />
   <img alt="Snake animation" src="https://raw.githubusercontent.com/sikeeze/sikeeze/output/github-snake-dark.svg" />
 </picture>
 
@@ -109,7 +105,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1500&color=FF2A6D&background=00000000&center=true&vCenter=true&width=600&lines=%22The+future+is+already+here+%E2%80%94+it's+just+not+evenly+distributed.%22" alt="Quote"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1500&color=FF2A6D&background=00000000&center=true&vCenter=true&width=500&lines=Build.+Break.+Ship.+Repeat." alt="Quote"/>
 
 </div>
 
