@@ -91,7 +91,7 @@
 <div align="center">
 
 <picture>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/sikeeze/sikeeze/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/sikeeze/sikeeze/output/github-snake-dark.svg" />
 </picture>
 
 </div>
