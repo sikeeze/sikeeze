@@ -87,9 +87,9 @@
 <div align="center">
 
 <a href="https://github.com/sikeeze"><img src="https://img.shields.io/badge/GitHub-1b1b3a?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://instagram.com/sikeeze"><img src="https://img.shields.io/badge/Instagram-1b1b3a?style=for-the-badge&logo=instagram&logoColor=ff6b9d"/></a>
-<a href="https://linkedin.com/in/sikeeze"><img src="https://img.shields.io/badge/LinkedIn-1b1b3a?style=for-the-badge&logo=linkedin&logoColor=4de1ff"/></a>
-<a href="mailto:email@kamu.com"><img src="https://img.shields.io/badge/Email-1b1b3a?style=for-the-badge&logo=gmail&logoColor=ffd23f"/></a>
+<a href="https://instagram.com/aikhel_dika"><img src="https://img.shields.io/badge/Instagram-1b1b3a?style=for-the-badge&logo=instagram&logoColor=ff6b9d"/></a>
+<a href="https://linkedin.com/in/aikhelsefriandika"><img src="https://img.shields.io/badge/LinkedIn-1b1b3a?style=for-the-badge&logo=linkedin&logoColor=4de1ff"/></a>
+<a href="aikheldika16@gmail.com"><img src="https://img.shields.io/badge/Email-1b1b3a?style=for-the-badge&logo=gmail&logoColor=ffd23f"/></a>
 
 </div>
 
